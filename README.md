@@ -1,2 +1,2 @@
 # selfschool-cv
-https://dslamster.github.io/selfschool-cv/cv
+https://dslamster.github.io/selflearning-cv/cv
